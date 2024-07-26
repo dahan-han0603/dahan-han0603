@@ -26,7 +26,7 @@ A **Web Developer** 🚀 from Seoul, Korea.
 
 **About Me!**
 
-- 👨🏽‍💻  I’m currently working as a Back-End at catenoid.
+- 👨🏽‍💻  I’m currently working as a Back-End at Haram-i.
 
 
 **Languages and Tools:**  
